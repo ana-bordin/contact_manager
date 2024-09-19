@@ -1,0 +1,11 @@
+Descrição do Projeto:
+
+Funcionalidades:
+    Adicionar um novo contato.
+    Visualizar todos os contatos.
+    Salvar contatos em um banco de dados SQLite.
+
+Tecnologias Usadas:
+    Python
+    Tkinter para interface gráfica
+    SQLite para armazenamento de dados
